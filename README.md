@@ -1,0 +1,2 @@
+# Buscaminas-c
+Juego buscaminas
